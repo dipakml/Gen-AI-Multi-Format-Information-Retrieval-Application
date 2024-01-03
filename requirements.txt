@@ -1,0 +1,11 @@
+streamlit
+streamlit_chat
+langchain
+sentence_transformers
+openai
+chromadb
+tiktoken
+docx
+docx2txt
+pypdf
+python-docx
